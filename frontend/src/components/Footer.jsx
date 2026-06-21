@@ -8,7 +8,7 @@ const Footer = () => {
 
         {/* left section */}
         <div>
-            <img className='mb-5 w-40' src={assets.logo} alt="" />
+            <p className='mb-5 w-40 font-bold text-3xl' > Book Here</p>
             <p className='w-full md:w-2/3 text-gray-600 leading-6'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore in id deserunt quasi optio repudiandae doloribus quibusdam laborum magni aliquam.</p>
 
         </div>
